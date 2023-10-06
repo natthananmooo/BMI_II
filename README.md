@@ -18,4 +18,6 @@ npm install -g create-react-app
 ```bash
 npm start
 ```
+## Website
+* at:[https://steady-pixie-0e6198.netlify.app]
 
