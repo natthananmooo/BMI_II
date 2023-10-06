@@ -1,0 +1,28 @@
+
+  h1{
+      color:Green;
+      font-size: 30px;
+      font-family: sans-serif;
+      text-decoration: underline;
+      font-weight: bold;
+      margin: 20px;
+  }
+  input {
+    width: 50%;
+    height: 30px;
+    border: 1px solid rgb(24, 63, 23);
+    padding: 5px;
+  }
+  
+  button {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(142, 197, 90);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+ 
+  
+  
